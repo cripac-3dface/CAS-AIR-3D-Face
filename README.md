@@ -15,5 +15,5 @@ It includes 24713 videos from 3093 individuals, which is captured by Intel
 RealSense SR305. The database contains three modalities: color, depth and 
 near infrared, and is rich in pose, expression, occlusion and distance variations.
 
-![image]() 
+![image](https://github.com/cripac-3dface/CAS-AIR-3D-Face/tree/main/imgs/04.png) 
 
