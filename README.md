@@ -17,3 +17,24 @@ near infrared, and is rich in pose, expression, occlusion and distance variation
 
 ![image](imgs/04.png) 
 
+### Download
+
+If you need to download it, please complete this [agreement](), and send the scanned 
+version with the signature of a permanent staff to `cripac_3dface@cripac.ia.ac.cn`.
+
+### Contact and Citation
+
+If you have any question, please email to `cripac_3dface@cripac.ia.ac.cn`
+
+Please cite our paper when you use it in your research.
+```
+@INPROCEEDINGS{9484332,
+  author={Li, Qi and Dong, Xiaoxiao and Wang, Weining and Shan, Caifeng},
+  booktitle={2021 IEEE International Joint Conference on Biometrics (IJCB)}, 
+  title={CAS-AIR-3D Face: A Low-Quality, Multi-Modal and Multi-Pose 3D Face Database}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/IJCB52358.2021.9484332}}
+```
