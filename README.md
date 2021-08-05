@@ -13,5 +13,7 @@ is to construct a suitable database, which can be exploited to train different
 CAS-AIR-3D Face, for low-quality 3D face recognition. 
 It includes 24713 videos from 3093 individuals, which is captured by Intel 
 RealSense SR305. The database contains three modalities: color, depth and 
-near infrared, and is rich in pose, expression, occlusion and distance variations.  
+near infrared, and is rich in pose, expression, occlusion and distance variations.
+
+![image]() 
 
