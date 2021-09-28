@@ -20,8 +20,8 @@ near infrared, and is rich in pose, expression, occlusion and distance variation
 ### Download
 
 If you need to download it, please complete this 
-[agreement](license/CAS-AIR-3D%20Face%20License%20Agreement.pdf) (The agreement refers 
-to the dataset license agreement of Idiap Research Institute), and send the scanned 
+[agreement](license/CAS-AIR-3D%20Face%20License%20Agreement.pdf) (*The agreement refers 
+to the dataset license agreement of Idiap Research Institute*), and send the scanned 
 version with the signature of a permanent staff to `cripac_3dface@cripac.ia.ac.cn`.
 
 ### Contact and Citation
